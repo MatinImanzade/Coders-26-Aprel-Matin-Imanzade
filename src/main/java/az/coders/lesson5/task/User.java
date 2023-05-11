@@ -10,8 +10,8 @@ public class User {
     }
 
     public void setName(String name) {
-        if (name.length()<=3 && ){
-            System.out.println("");
+        if (name.length()<=3 && name.matches("[a-zA-Z]+")){
+            System.out.println("Success");
         }else {
             this.name = name;
         }
@@ -23,8 +23,8 @@ public class User {
     }
 
     public void setSurname(String surname) {
-        if (surname.length()<=3 && ){
-            System.out.println("");
+        if (surname.length()<=3 && surname.matches("[a-zA-Z]+")){
+            System.out.println("Success");
         }else {
             this.surname = surname;
         }
