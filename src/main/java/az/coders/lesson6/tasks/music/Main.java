@@ -9,5 +9,8 @@ public class Main {
         jazzMusicPlayer.pause();
         jazzMusicPlayer.stop();
 
+
+        System.out.println();
+
     }
 }
