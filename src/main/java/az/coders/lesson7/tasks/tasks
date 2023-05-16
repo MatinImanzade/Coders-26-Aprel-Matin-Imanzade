@@ -1,0 +1,17 @@
+1. verilmiş iki arrayın kəsişməsini və birləşməsini tapmaq ---
+2. verilmiş mətndə(String) ən uzun hərfli sözü tapmaq +++
+3. int arrayda ən çox təkrarlanan rəqəmi tapmaq
+4. Verilmiş rəqəmi ikilik say sisteminə çevirmək
+5. Verilmiş mətndə(String) hər sözün ilk hərfini böyük hərf eləmək
+6. Verilmiş 2 ədədin əbobunu(ən böyük ortaq bölən) tapmaq
+
+
+
+1 method (getSubscription ) yazın int tipinidə amount alsın və LocalDate qaytarsın
+5-manat 1 bir həftə
+15 manat 1 ay
+25 manat 2ay
+60 isə bir il expire LocalDate qaytarsın
+
+
+Yaş Hesaplama: Kullanıcının doğum tarihini girdiği zaman, o anki yaşını hesaplayan bir program yazın.
