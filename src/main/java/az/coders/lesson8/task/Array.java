@@ -7,6 +7,13 @@ public class Array {
     public static void main(String[] args) {
 
         int[] arr = {2, 4, 6, 8, 1, 4, 3, 1};
+        boolean tapildi = numberFindAtArray(arr,3);
+
+        if (tapildi){
+            System.out.println("Axtardiginiz eded massivde movcuddur");
+        }else {
+            System.err.println("Eded massivde movcud deyil");
+        }
 
     }
 
@@ -16,14 +23,17 @@ public class Array {
         int length = arr.length;
         int middleLenth = length/2;
 
-
-
-        Scanner scanner = new Scanner(System.in);
-        int axtarilanReqem = scanner.nextInt();
         boolean tapildi = false;
 
-        while (!tapildi){
-            if (axtarilanReqem == arr[middleLenth-1]);
+        for (int i = 1;i<middleLenth;i++){
+            if (findingNumber < arr[middleLenth-i]){
+                if (findingNumber == arr[middleLenth-i]){
+                    tapildi = true;
+                    break;
+                }
+            }else {
+
+            }
 
         }
 
