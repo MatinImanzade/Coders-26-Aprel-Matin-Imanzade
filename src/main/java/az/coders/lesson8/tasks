@@ -1,0 +1,15 @@
+1) ulduzlardan(*) istifade ederek consolda romb duzletmek(rombun boyukluyunu ozunuz teyin edirsiniz)
+meselen:
+   *
+  * *
+ * * *
+* * * *
+ * * *
+  * *
+   *
+2)bir key(axtarilan reqem) verilir,verlimis arrayin(array sorteddir) icinde olub olmadigini tapmaq lazimdir en tez sekilde
+
+3)forma abstract class i yaradin (getPerimetr ve getSahe abstract metodlari olsun)
+	iki class yaradin (kvadrat ve duzbucaqli ucbucaq)
+	abstract class elaqelendirin ve metodlarindan istifade edin
+	main class da cixisa verin
