@@ -1,0 +1,9 @@
+1) User class- String email,String password
+ User[] -User arrayinda 1 nece user saxla
+ email ucun ve password ucun ferqli exceptionlar yarat
+ (email ucun regex elave edin sehv olsa exception atsin,password ucun de(bunu obyekti yaradanda etsin))
+ sehve gore bu exceptionlari yolla ve 2 si ucunde ferqli cavablar cixar
+
+2) final keywordunun alqoritmini yazin (exceptiondan istifade ederek(compile time exception))
+
+3) select sort alqoritmini yazin
